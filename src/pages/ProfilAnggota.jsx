@@ -3,15 +3,15 @@ import HeroSection from '../Components/hero-section'
 
 function ProfilAnggota() {
     const fotoList = [
-      { src: "/public/jehan.jpg", nama: "Jehan" },
-      { src: "/public/agum.jpg", nama: "Agum" },
-      { src: "/public/dzul.jpg", nama: "Dzul" },
-      { src: "/public/satria.jpg", nama: "Satria" },
-      { src: "/public/bagas.jpg", nama: "Bagas" },
-      { src: "/public/repal.jpg", nama: "Repal" },
-      { src: "/public/rahul.jpg", nama: "Rahul" },
-      { src: "/public/abdi.jpg", nama: "Abdillah" },
-      { src: "/public/kenny.jpg", nama: "Rizki" },
+      { src: "/jehan.jpg", nama: "Jehan" },
+      { src: "/agum.jpg", nama: "Agum" },
+      { src: "/dzul.jpg", nama: "Dzul" },
+      { src: "/satria.jpg", nama: "Satria" },
+      { src: "/bagas.jpg", nama: "Bagas" },
+      { src: "/repal.jpg", nama: "Repal" },
+      { src: "/rahul.jpg", nama: "Rahul" },
+      { src: "/abdi.jpg", nama: "Abdillah" },
+      { src: "/kenny.jpg", nama: "Rizki" },
     ];
     
   return (
