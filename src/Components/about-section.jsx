@@ -9,7 +9,7 @@ const dataKonten = [
   },
   {
     ikon: ShieldPlus,
-    judul: "Tahun",
+    judul: "Didirikan",
     deskripsi: "Kami lahir pada tahun 2021",
   },
   {
